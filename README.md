@@ -1,4 +1,4 @@
-# Spyfish Aotearoa - Machine leanring
+# Spyfish Aotearoa - Machine learning
 
 This repository contains scripts and resources to train ml algorithms to identify fish for the Spyfish Aotearoa using data labelled by citizen scientists. 
 
